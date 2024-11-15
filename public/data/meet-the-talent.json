@@ -570,6 +570,592 @@
           "name": "LinkedIn"
         }
       ]
+    },
+    {
+  "talents": [
+    {
+      "fullName": "Pranay Patel",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced Senior Software Engineer with over 9 years in mobile development,\nspecializing in Android and Flutter. Skilled in using AI tools to boost coding efficiency and bring new ideas to app development. Passionate about leading\ncomplex projects, contributing to open-source communities, and mentoring junior\nengineers to foster team growth and deliver high-quality mobile apps. My expertise\nincludes hands-on development in Kotlin Multiplatform and Flutter and recent\nexploration into AWS.",
+      "email": "iampranaypatel@domain.com",
+      "phone": "+91-7990139255",
+      "imageUrl": "https://pbs.twimg.com/profile_images/1734799171386003456/JdFtde75_400x400.jpg",
+      "website": "https://pranaypatel.netlify.app/",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter",
+        "KotlinMultiPlatform",
+        "Mentoring",
+        "AWS"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://pranaypatel.netlify.app/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pranaypatel512",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/pranaypatel512/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/pranaypatel_",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Yash Parikh",
+      "location": "Vadodara, India",
+      "bio": "AI Engineer Specializing in Machine Learning Solutions | Deep Learning Enthusiast | Transforming Data into Insights | MVVVM | Kotlin | Jetpack Compose | Flutter | Dart",
+      "email": "yashyp@gmail.com",
+      "phone": "+91-8780415854",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGxRAwJb7cH3A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1730714119842?e=1736380800&v=beta&t=a2fyat_NnQxmqS0zWg3BrpVjmG_4OraBW19EKvSAyyc",
+      "website": "",
+      "skills": [
+        "Android",
+        "Flutter",
+        "Gen AI",
+        "Python Automation"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/Yash23",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yashparikh23/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yashcz",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Himanshu Dudhat",
+      "location": "Ahmedabad, India",
+      "bio": "Mobile App Developer | 12+ yr. Exp.| Android | Flutter | Building app for ~5 million users",
+      "email": "himanshu.dudhat@gmail.com",
+      "phone": "+91-9723925030",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/C5603AQE1PclSRRKRTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1516564166327?e=1736380800&v=beta&t=QlBcfAaui6Szrk1K42mPk2SUx7clEtSRR_LpJ_HOl18",
+      "website": "",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/HimanshuDudhat",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/himanshududhat",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/HimanshuDudhat",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Pratik Bharad",
+      "location": "Ahmedabad, India",
+      "bio": "Experienced Software Engineer with over 4+ years of experience in mobile development, specializing in Android and Flutter.",
+      "email": "pratikbharad99@gmail.com",
+      "phone": "+91-7984268169",
+      "imageUrl": "https://res.cloudinary.com/daily-now/image/upload/s--_L6xwplo--/f_auto,q_auto/v1700137990/avatars/avatar_yQ0Yyq4SQpV7nCTC0nWSi",
+      "website": "https://pratik-bharad.webflow.io/",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Flutter"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://pratik-bharad.webflow.io/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/pratikPSB",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "http://www.linkedin.com/in/pratik-bharad",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/bharad_pratik",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Jaydip Umaretiya",
+      "location": "Surat, India",
+      "bio": "Experienced and dedicated Android developer with 9 years of expertise in building high-quality native applications for mobile and TV, including digital signage solutions. Proficient in Kotlin, Java, and native libraries, with a strong focus on leveraging Jetpack Compose for modern, responsive UI design across devices, including Android TV. Adept in project oversight and team coordination, consistently achieving outstanding outcomes and exceeding client expectations. Demonstrated success in handling intricate projects, guiding teams, and delivering applications that cater to diverse user requirements. Seeking a dynamic role where I can apply my skills to deliver innovative Android solutions and build long-term partnerships.",
+      "email": "jaynumaretiya@gmail.com",
+      "phone": "+91-9510086772",
+      "imageUrl": "https://media.licdn.com/dms/image/v2/D4D35AQHoea_C-yWYRA/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1730890182647?e=1731567600&v=beta&t=WNORy1dE-Avt_xHBiCVgOdFoVCu6eAO1Yt1Q9MxsrQ8",
+      "website": "",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Jetpack Compose",
+        "Android TV Development",
+        "KotlinMultiPlatform"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/jaydipumaretiya",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jaydipumaretiya",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/jaydipumaretiya",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Niraj Chauhan",
+      "location": "Vadodara, India",
+      "bio": "Technical Project Manager | 10+ years of experience in the Software Industry working from Software development to Program/Portfolio Management.",
+      "email": "niraj1750@gmail.com",
+      "phone": "+91-8460060106",
+      "imageUrl": "https://nhchauhan.dev/assets/images/profile.png",
+      "website": "https://nhchauhan.dev/",
+      "skills": [
+        "Project Management",
+        "Scrum Master",
+        "Product Owner",
+        "Program Management"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://nhchauhan.dev/",
+          "name": "Blog"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/niraj-chauhan",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/nirj",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Hitesh Patel",
+      "location": "Ahmedabad, India",
+      "bio": "With over 13 years of experience in the tech industry, I am currently serving as the Technical Delivery Head at Recruitment Smart, a leader in AI-powered recruitment solutions. I oversee three critical departments: Cloud & Infrastructure, Chatbot Development, and Robotic Process Automation (RPA). In this capacity, I have successfully led customer onboarding on cloud platforms, ensuring robust and secure architecture, and developed innovative chatbot solutions to enhance candidate experiences through pre-screening, career exploration, and interview scheduling. Additionally, I have implemented RPA for job boards, streamlining processes and boosting productivity. My expertise in these domains has consistently delivered improved efficiency, cost savings, and high customer satisfaction. I am deeply passionate about leveraging my technological expertise to drive innovation and growth. Let's connect and explore new possibilities together!",
+      "email": "hitesh24by365@gmail.com",
+      "phone": "+91-8460481672",
+      "imageUrl": "https://i.ibb.co/Mp3vYDZ/1670940846890.jpg",
+      "website": "https://botsnmore.com/",
+      "skills": [
+        "Cloud Infrastructure",
+        "Web Development",
+        "Chatbot Development",
+        "Chrome Extension",
+        "Node.js",
+        "Python"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://botsnmore.com",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/hitesh24by365",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/hitesh24365",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/hitesh24by365",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Savan Patel",
+      "location": "Ahmedabad, India",
+      "bio": "Sr. Software Engineer (MERN) | 5+ YOE | Experience with US Based startups in HealthCare, B2B SaaS and AI focused domains.",
+      "email": "savan.gatesaniya@gmail.com",
+      "phone": "+91-8155089510",
+      "imageUrl": "https://drive.google.com/thumbnail?id=1O8iD0fXFQV7-iqjKtwwpfmf-cbIJZn7f",
+      "website": "https://savanpatell.netlify.app/",
+      "skills": [
+        "NodeJS",
+        "ReactJS",
+        "AWS",
+        "Kafka",
+        "RabbitMQ",
+        "Redis",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "LLM",
+        "NestJS",
+        "NextJS",
+        "TailwindCSS",
+        "Kubernetes"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://savanpatell.netlify.app/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/psavan1655",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/savanpatell/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/patelsavan6595",
+          "name": "X/Twitter"
+        },
+        {
+          "icon": "youtube",
+          "link": "https://www.youtube.com/@SRPPixels",
+          "name": "Youtube"
+        }
+      ]
+    },
+    {
+      "fullName": "Bharat Solanki",
+      "location": "Ahmedabad, India",
+      "bio": "I am a Fullstack Developer with over 7 years of experience in the IT industry, currently excelling as a Team Lead. With expertise in ATS integrations, I have successfully implemented solutions for platforms such as SAP, Bullhorn, Greenhouse, and Taleo. My technical proficiency extends to job board integrations, having seamlessly connected systems with leading boards like Dice, Monster, and CareerBuilder. Driven by a passion for building efficient, scalable applications, I leverage a robust understanding of both backend and frontend technologies to deliver impactful results.",
+      "email": "bharat.mali4245@gmail.com",
+      "phone": "+91-9510346012",
+      "imageUrl": "https://i.ibb.co/yyGNbG5/1533348772424-1.jpg",
+      "website": "",
+      "skills": [
+        "Php",
+        "javascript",
+        "NodeJS",
+        "ReactJS",
+        "ExpressJS",
+        "Mysql",
+        "MongoDB",
+        "html",
+        "css"
+      ],
+      "links": [
+        {
+          "icon": "github",
+          "link": "https://github.com/bharat4245",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://github.com/bharat4245",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mali__bharat",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Rajveer Rathod",
+      "location": "Kalol, Panchmahals, India",
+      "bio": "As a Machine Learning Research Engineer with hands-on experience in AI-driven solutions, I have led teams in developing innovative applications across IoT, AI, and cloud platforms. I specialize in creating solutions that leverage AI for enhanced automation, efficiency, and user engagement. My work spans developing IoT applications, contributing to open-source machine learning repositories, and conducting impactful research in areas like high-energy physics using ML.",
+      "email": "rajveer.rathod1301@gmail.com",
+      "phone": "+91-9265732511",
+      "imageUrl": "",
+      "website": "https://rajveer43.github.io/rajveer-rathod/",
+      "skills": [
+        "Machine Learning",
+        "IoT",
+        "React.js",
+        "Django",
+        "GPT Models",
+        "AWS",
+        "GCP",
+        "Python",
+        "LangChain",
+        "Transformers",
+        "Torch-Geometric",
+        "NLP",
+        "Data Visualization",
+        "PowerBI"
+      ],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/rajveer-rathod/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/rajveer43/",
+          "name": "GitHub"
+        },
+        {
+          "icon": "medium",
+          "link": "https://medium.com/@rajveer.rathod1301",
+          "name": "Medium"
+        },
+        {
+          "icon": "huggingface",
+          "link": "https://huggingface.co/rajveer43",
+          "name": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "fullName": "Bhautik Bavadiya",
+      "location": "Ahmedabad, India",
+      "bio": "Building FlavorGPT & Trust Network | Technologist • IT Professional (6Y+ experience) | Founder @ YesbhautikX | Business Development @ Straw Hat Labs",
+      "email": "hi@yesbhautik.co.in",
+      "phone": "+91-6353586391",
+      "imageUrl": "https://github.com/yesbhautik/yesbhautik/blob/ce20de170527773303b56ec79ff25f420c7c3de7/PP1-yellow.jpg?raw=true",
+      "website": "https://yesbhautik.co.in",
+      "skills": [
+        "Business Development",
+        "Cloud",
+        "Full Stack Development",
+        "Go",
+        "R&D"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://links.yesbhautik.co.in",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/yesbhautik",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yesbhautik",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/yesbhautik",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Mayur Gohel",
+      "location": "Vadodara, India",
+      "bio": "Crafting smart, seamless mobile apps with Flutter, powered by AI & ML for the next-gen user experience | MVVM | Swift | Swift UI | Flutter | Dart",
+      "email": "mgohel2017@gmail.com",
+      "phone": "+91 9016125654",
+      "imageUrl": "https://techconnectors.community/profile/mayurgohel/profile.jpg",
+      "website": "https://techconnectors.community/profile/mayurgohel",
+      "skills": [
+        "iOS",
+        "Flutter",
+        "Android",
+        "AI/ML"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://techconnectors.community/profile/mayurgohel",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/mggohel",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/gohelmayur",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/mayurgohel89",
+          "name": "X/Twitter"
+        }
+      ]
+    },
+    {
+      "fullName": "Divya Dave",
+      "location": "Ahmedabad, India",
+      "bio": "With 4 years of experience, I bring a thoughtful approach to development, asking the right questions to create impactful, user-focused mobile applications that prioritize seamless experiences.",
+      "email": "divyadave1205@gmail.com",
+      "phone": "+91-9601808779",
+      "imageUrl": "https://github.com/user-attachments/assets/4d7073bb-1517-4d8f-9ec5-990009a983f7",
+      "website": "https://divyadave.framer.ai/",
+      "skills": [
+        "Flutter",
+        "IoT",
+        "Web apps",
+        "Agile Methodologies",
+        "Cross platform apps"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://divyadave.framer.ai/",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/divyadave1205",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/divya-dave-09b099234/",
+          "name": "LinkedIn"
+        }
+      ]
+    },
+    {
+      "fullName": "Sanket Modi",
+      "location": "Ahmedabad, India",
+      "bio": "I am Sanket Modi, with a total 13+ years of experience including 4+ years experience in management in the software development world with product development organizations. I am looking for an opportunity in an Engineering Management role.",
+      "email": "74.sanket@gmail.com",
+      "phone": "+91-8128102815",
+      "imageUrl": "https://avatars.githubusercontent.com/u/12370385?v=4",
+      "website": "",
+      "skills": [
+        "engineering management",
+        "sdet management",
+        "people management",
+        "OKR",
+        "resource planning",
+        "release planning"
+      ],
+      "links": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sankethmodi",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/sankethm7",
+          "name": "Github"
+        },
+        {
+          "icon": "resume",
+          "link": "https://drive.google.com/file/d/1fbM7aNG-mwteD8OZ_tQMlA7AmsSiBbLk/view",
+          "name": "Resume"
+        }
+      ]
+    },
+    {
+      "fullName": "Jaypalsinh Barad",
+      "location": "Ahmedabad, India",
+      "bio": "I thrive in the developer community, soaking up knowledge and collaborating on projects. This thirst for exploration propelled me into the world of professional Android development, where I've spent the past 3.5+ years weaving my technical prowess into engaging apps. along with android development I gain skill in Ktor Server, AWS Cloud, Kotlin/Compose Multi-platform, MacOS, iOS Swift UI development.",
+      "email": "jdbarad@gmail.com",
+      "phone": "+91-9510564953",
+      "imageUrl": "https://jdbarad.me/images/happy-bearded-young-man.jpg",
+      "website": "https://jdbarad.me",
+      "skills": [
+        "Android",
+        "Kotlin",
+        "Java",
+        "MVVM",
+        "Clean Architecture",
+        "Material design",
+        "Dependency injection",
+        "KMP",
+        "CMP",
+        "Kotlin Multi-platform",
+        "Ktor",
+        "Docker",
+        "PostgreSQl"
+      ],
+      "links": [
+        {
+          "icon": "website",
+          "link": "https://jdbarad.me",
+          "name": "Portfolio"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/jdbarad",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/jdbarad",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://x.com/jdbarad1010",
+          "name": "X/Twitter"
+        }
+      ]
     }
+  ]
+}
+
   ]
 }
